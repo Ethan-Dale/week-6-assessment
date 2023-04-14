@@ -1,0 +1,27 @@
+﻿Things to test:
+* Test the see all bots button.
+* Test the draw button
+* Test the add to duo button on all of the cards to ensure that we can choose any of the robots.
+* Test the Duel button to make sure that it’s working
+* Test the remove from duo button.
+* Check to see if it does the math correctly
+* Make sure that it puts the wins and losses in the right slot
+
+ Planned test:
+1.Open site at localhost:3000
+2.Click the see all bots button.
+3.Click the draw button.
+4.Go through and click on the add to duo button.
+5.Click the dual button.
+6.Observe and see if the counter is working correctly.
+
+
+ran tests:
+I tested the draw button and everything is functional
+Tested the Add to duo button and everyhting is functional
+Tested the dual button and its working
+tested the math and the math is functioning
+tested the win loss counter and it is not functioning properly. 
+
+bug repots:
+the win loss counter isn't properly displaying the data that's getting sent to it. No wins are being displayed.
